@@ -38,6 +38,20 @@
 
 如果想要自訂我會啥  
 像這樣  
-![](https://github.com/jiaqian1130/oldblog-theme/blob/main/assets/images/%E6%88%91%E6%9C%83%E5%95%A5.png)
+![](https://github.com/jiaqian1130/oldblog-theme/blob/main/assets/images/%E6%88%91%E6%9C%83%E5%95%A5.png)  
+請看484行到497行  
 
+```html
+            <li class="skills-item">
 
+              <div class="title-wrapper">
+                <h5 class="h5">戰地風雲五目標一千小時</h5>
+                <data value="1.9">190小時</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width:19%;"></div>
+              </div>
+
+            </li>
+```
