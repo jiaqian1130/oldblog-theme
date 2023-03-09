@@ -1,10 +1,10 @@
 # oldblog-theme  
-[這是模板來源](https://github.com/codewithsadee/vcard-personal-portfolio)
+[這是模板來源](https://github.com/codewithsadee/vcard-personal-portfolio)  
 這是舊的blog theme，目前已經棄用  
 紀錄一下打了兩千多字的mc server架設文章  
-取用模板請先把文章刪除
-如果要新增貼文請看626行到651行
+取用模板請先把文章刪除  
 
+如果要新增貼文請看626行到651行
 ```html
 
             <li class="blog-post-item">
