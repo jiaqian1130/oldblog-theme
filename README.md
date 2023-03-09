@@ -55,3 +55,5 @@
 
             </li>
 ```
+如果要放discord連結按一下島到加好友頁面的話格式如下  
+```https://discord.com/users_ID```
