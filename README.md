@@ -1,8 +1,8 @@
 # oldblog-theme  
 [這是模板來源](https://github.com/codewithsadee/vcard-personal-portfolio)  
 這是舊的blog theme，目前已經棄用  
-紀錄一下打了兩千多字的mc server架設文章  
-取用模板請先把文章刪除  
+如果要自訂網頁icon請把圖片轉成.ico檔案  
+取名```favicon.ico```並放進```./assets/images/```
 
 如果要新增貼文請看626行到651行
 ```html
