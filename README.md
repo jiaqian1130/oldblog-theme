@@ -38,6 +38,6 @@
 
 如果想要自訂我會啥  
 像這樣  
-[](https://github.com/jiaqian1130/oldblog-theme/blob/main/assets/images/%E6%88%91%E6%9C%83%E5%95%A5.png)
+![](https://github.com/jiaqian1130/oldblog-theme/blob/main/assets/images/%E6%88%91%E6%9C%83%E5%95%A5.png)
 
 
