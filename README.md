@@ -45,12 +45,12 @@
             <li class="skills-item">
 
               <div class="title-wrapper">
-                <h5 class="h5">戰地風雲五目標一千小時</h5>
-                <data value="1.9">190小時</data>
+                <h5 class="h5">你的技能</h5>
+                <data value="1.9">%數</data> <!--1.9要改成你要的數字-->
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width:19%;"></div>
+                <div class="skill-progress-fill" style="width:19%;"></div> <!--這邊的19%要改成你要的-->
               </div>
 
             </li>
